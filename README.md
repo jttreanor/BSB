@@ -1,2 +1,2 @@
 # BSB
-Repository for BRIDGE Status Board (BSB) code and templates for Treanor et al.
+Repository for BRIDGE Status Board (BSB) code, templates, and data for Treanor et al.
